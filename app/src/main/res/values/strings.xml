@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vice Coast</string>
+    <string name="cd_game_banner">Vice Coast coastal sunset supercar and motorbike artwork</string>
+    <string name="cd_minimap">Live city minimap radar</string>
+    <string name="cd_pause">Pause game</string>
+    <string name="cd_camera">Switch camera angle</string>
+    <string name="cd_enter_exit_vehicle">Enter or exit nearby vehicle</string>
+    <string name="cd_boost">Nitrous boost</string>
+    <string name="cd_horn">Vehicle horn or wheelie</string>
+    <string name="cd_headlights">Toggle headlights</string>
+    <string name="cd_garage">Spawn or switch vehicle</string>
+</resources>
